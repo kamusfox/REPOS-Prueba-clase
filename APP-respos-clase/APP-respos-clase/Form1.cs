@@ -21,5 +21,10 @@ namespace APP_respos_clase
         {
             MessageBox.Show("El otro boton es azul :D");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Este boton ha sido un nuevo commit");
+        }
     }
 }
